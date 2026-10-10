@@ -1,4 +1,4 @@
-## Propagation
+## Propagation AI assisted project
 
 The Band_Conditions.py shows the latest propagation from hamsql.com and Australian Bureau of Meteorology (BOM)
 
